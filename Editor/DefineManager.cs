@@ -1,6 +1,6 @@
 ﻿using UnityEditor;
 
-namespace ARRT.Firebase.AuthorizationManagement.Editor
+namespace ARRTEditor.Firebase.AuthorizationManagement
 {
     public static class DefineManager
     {

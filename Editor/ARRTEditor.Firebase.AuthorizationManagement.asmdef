@@ -1,17 +1,15 @@
 {
-    "name": "ARRT.Firebase.AuthorizationManagement",
-    "references": [
-        "GUID:b7f362f5181608348a4334c5f23ce64b"
+    "name": "ARRTEditor.Firebase.AuthorizationManagement",
+    "references": [],
+    "includePlatforms": [
+        "Editor"
     ],
-    "includePlatforms": [],
     "excludePlatforms": [],
     "allowUnsafeCode": false,
     "overrideReferences": false,
     "precompiledReferences": [],
     "autoReferenced": true,
-    "defineConstraints": [
-        "USE_FIREBASE_AUTH"
-    ],
+    "defineConstraints": [],
     "versionDefines": [],
     "noEngineReferences": false
 }
