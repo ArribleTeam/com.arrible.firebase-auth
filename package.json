@@ -1,0 +1,22 @@
+{
+  "name": "com.arrible.firebase-auth",
+  "version": "1.0.0",
+  "displayName": "Arrible Firebase Auth",
+  "description": "Responsible for convenient authorization. \nWARNING: \nImport the Firebase.Auth plugin before installing the package.",
+  "unity": "2018.3",
+  "keywords": [
+    "firebase",
+    "auth"
+  ],
+  "bugs": {
+    "url": "https://github.com/IVProject/com.arrible.firebase-auth/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "ssh://git@github.com:IVProject/com.arrible.firebase-auth.git"
+  },
+  "author": {
+    "name": "Arrible",
+    "email": "arribledev@gmail.com"
+  }
+}
