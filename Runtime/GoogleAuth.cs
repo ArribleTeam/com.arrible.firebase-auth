@@ -8,7 +8,7 @@ namespace ARRT.Firebase.AuthorizationManagement
 {
     public class GoogleAuth : ISignIn
     {
-        private string m_ClientId = "484589312122-melu5891ubidem8g7plekrf7q1ko87bt.apps.googleusercontent.com";
+        private string m_ClientId;
 
 
         public GoogleAuth(string clientId)
